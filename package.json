@@ -1,0 +1,19 @@
+{
+  "name": "drugstore_solidity",
+  "version": "1.0.0",
+  "description": "Simple drugstore solidity based contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkrus/drugstore_solidity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monkrus/drugstore_solidity/issues"
+  },
+  "homepage": "https://github.com/monkrus/drugstore_solidity#readme"
+}
