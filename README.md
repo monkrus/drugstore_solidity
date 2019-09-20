@@ -1,7 +1,7 @@
 ## drugstore_solidity ##
 Simple drugstore solidity based contract
 
-#The intention of this contract is to create a basic understanding of the basic structure.#
+*The intention of this contract is to create a basic understanding of the basic structure.*
 
 **Line 6** creates a mechanism to count drugs. It is implemented in line 37.
 
